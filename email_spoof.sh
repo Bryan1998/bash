@@ -1,6 +1,7 @@
 #!/bin/bash
 
-isValid=no
+isValid = no
+
 while [[ $isValid != "yes" ]]
 do
 	echo "Please enter an email address to spoof:"
